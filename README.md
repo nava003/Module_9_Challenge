@@ -30,6 +30,6 @@
 > `THEN I am taken to the corresponding section of the README`
 
 ## Student Result
-Link to Deployed Version: https://nava003.github.io/Module_9_Challenge
+A video/GIF will be presented to showcase the functionality of this challenge.
   
 The following images are snapshots of the command-line interacting with the user accordingly:  
