@@ -1,24 +1,33 @@
 # Module_9_Challenge
 
 ## User Story
-> `AS A traveler`  
-> `I WANT to see the weather outlook for multiple cities`  
-> `SO THAT I can plan a trip accordingly`
+> `AS A developer`  
+> `I WANT a README generator`  
+> `SO THAT I can quickly create a professional README for a new project`
 
 ## Acceptance Criteria
-> `GIVEN a weather dashboard with form inputs`
+> `GIVEN a command-line application that accepts user input`
 > 
-> `WHEN I search for a city`  
-> `THEN I am presented with current and future conditions for that city and that city is added to the search history`
+> `WHEN I am prompted for information about my application repository`  
+> `THEN I a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions`
 > 
-> `WHEN I view current weather conditions for that city`  
-> `THEN I am presented with the city name, the date, an icon representation of weather conditions, the temperature, the humidity, and the wind speed`
+> `WHEN I enter my project title`  
+> `THEN this is displayed as the title of the README`
 > 
-> `WHEN I view future weather conditions for that city`  
-> `THEN I am presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity`
+> `WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions`  
+> `THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests`
 > 
-> `WHEN I click on a city in the search history`  
-> `THEN I am again presented with current and future conditions for that city`
+> `WHEN I choose a license for my application from a list of options`  
+> `THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under`
+>
+> `WHEN I enter my GitHub username`
+> `THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile`
+>
+> `WHEN I enter my email address`
+> `THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions`
+>
+> `WHEN I click on the links in the Table of Contents`
+> `THEN I am taken to the corresponding section of the README`
 
 ## Student Result
 Link to Deployed Version: https://nava003.github.io/Module_9_Challenge
