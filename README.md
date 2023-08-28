@@ -1,4 +1,4 @@
-# Module_9_Challenge
+# Challenge - Professional README Generator
 
 ## User Story
 > `AS A developer`  
