@@ -2,7 +2,8 @@ function renderLicenseBadge(license) {
   if (license === 'None') {
     return '';
   } else {
-    return `![Static Badge](https://img.shields.io/badge/${license}%20License-Active-green)`;
+    const fixedLicense = license.replace(/ /, '%20');
+    return `![Static Badge](https://img.shields.io/badge/${fixedLicense}%20License-Active-green)`;
   }  
 }
 
