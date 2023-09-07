@@ -26,7 +26,7 @@ const questions = [
   {
     type: "input",
     name: "contributing",
-    message: "If your project is an application or package that welcomes other developers to contribute,\n  include guidelines in how to do so: ",
+    message: "If your project is an application or package that welcomes other developers to contribute,\n  include guidelines in how to do so:",
   },
   {
     type: "input",
