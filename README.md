@@ -30,6 +30,7 @@
 > `THEN I am taken to the corresponding section of the README`
 
 ## Student Result
-A video/GIF will be presented to showcase the functionality of this challenge.
+Attached is a video that will demonstrate the functionality of this challenge.  
+[NJS_C9_REC1.zip](https://github.com/nava003/ADN_README_Generator/files/12553443/NJS_C9_REC1.zip)  
   
-The following images are snapshots of the command-line interacting with the user accordingly:  
+Due to the length of the video, the zip file must be downloaded first in order to view the recorded demonstration.
