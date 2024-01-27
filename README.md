@@ -1,4 +1,4 @@
-# Challenge - Professional README Generator
+# Professional README Generator
 
 ## User Story
 > `AS A developer`  
